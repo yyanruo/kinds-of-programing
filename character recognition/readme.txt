@@ -1,0 +1,5 @@
+使用说明：
+
+verifyCodeGUI:matlab执行程序，进入界面后点击load加载包含验证码图片的文件夹
+classifier：BP训练得到的验证码分类器函数
+verifyCodeRecognition：验证码识别主函数
